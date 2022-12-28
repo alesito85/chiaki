@@ -1,0 +1,63 @@
+com/metallic/chiaki/databinding/ActivityRegistExecuteBinding.java
+ com.metallic.chiaki.databinding.ActivityRegistExecuteBinding
+com/metallic/chiaki/databinding/FragmentSettingsLogsBinding.java
+ com.metallic.chiaki.databinding.FragmentSettingsLogsBinding
+com/metallic/chiaki/common/AppDatabase_Impl.java
+ com.metallic.chiaki.common.AppDatabase_Impl
+ com.metallic.chiaki.common.AppDatabase_Impl$1
+com/metallic/chiaki/databinding/ItemRegisteredHostBinding.java
+ com.metallic.chiaki.databinding.ItemRegisteredHostBinding
+com/metallic/chiaki/databinding/ItemDisplayHostBinding.java
+ com.metallic.chiaki.databinding.ItemDisplayHostBinding
+com/metallic/chiaki/databinding/DialogLoginPinBinding.java
+ com.metallic.chiaki.databinding.DialogLoginPinBinding
+com/metallic/chiaki/databinding/ActivitySettingsBinding.java
+ com.metallic.chiaki.databinding.ActivitySettingsBinding
+com/metallic/chiaki/databinding/DropdownMenuPopupItemBinding.java
+ com.metallic.chiaki.databinding.DropdownMenuPopupItemBinding
+com/metallic/chiaki/databinding/ItemLogFileBinding.java
+ com.metallic.chiaki.databinding.ItemLogFileBinding
+com/metallic/chiaki/databinding/FragmentControlsBinding.java
+ com.metallic.chiaki.databinding.FragmentControlsBinding
+com/metallic/chiaki/BuildConfig.java
+ com.metallic.chiaki.BuildConfig
+com/metallic/chiaki/databinding/ActivityStreamBinding.java
+ com.metallic.chiaki.databinding.ActivityStreamBinding
+com/metallic/chiaki/common/RegisteredHostDao_Impl.java
+ com.metallic.chiaki.common.RegisteredHostDao_Impl
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$1
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$2
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$3
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$4
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$5
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$6
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$7
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$8
+ com.metallic.chiaki.common.RegisteredHostDao_Impl$9
+com/metallic/chiaki/databinding/FragmentTouchpadOnlyBinding.java
+ com.metallic.chiaki.databinding.FragmentTouchpadOnlyBinding
+com/metallic/chiaki/databinding/FragmentSettingsRegisteredHostsBinding.java
+ com.metallic.chiaki.databinding.FragmentSettingsRegisteredHostsBinding
+com/metallic/chiaki/databinding/ActivityRegistBinding.java
+ com.metallic.chiaki.databinding.ActivityRegistBinding
+com/metallic/chiaki/databinding/ActivityEditManualBinding.java
+ com.metallic.chiaki.databinding.ActivityEditManualBinding
+com/metallic/chiaki/common/ImportDao_Impl.java
+ com.metallic.chiaki.common.ImportDao_Impl
+ com.metallic.chiaki.common.ImportDao_Impl$1
+ com.metallic.chiaki.common.ImportDao_Impl$2
+com/metallic/chiaki/databinding/ActivityMainBinding.java
+ com.metallic.chiaki.databinding.ActivityMainBinding
+com/metallic/chiaki/common/ManualHostDao_Impl.java
+ com.metallic.chiaki.common.ManualHostDao_Impl
+ com.metallic.chiaki.common.ManualHostDao_Impl$1
+ com.metallic.chiaki.common.ManualHostDao_Impl$10
+ com.metallic.chiaki.common.ManualHostDao_Impl$11
+ com.metallic.chiaki.common.ManualHostDao_Impl$2
+ com.metallic.chiaki.common.ManualHostDao_Impl$3
+ com.metallic.chiaki.common.ManualHostDao_Impl$4
+ com.metallic.chiaki.common.ManualHostDao_Impl$5
+ com.metallic.chiaki.common.ManualHostDao_Impl$6
+ com.metallic.chiaki.common.ManualHostDao_Impl$7
+ com.metallic.chiaki.common.ManualHostDao_Impl$8
+ com.metallic.chiaki.common.ManualHostDao_Impl$9

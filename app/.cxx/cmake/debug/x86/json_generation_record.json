@@ -1,0 +1,62 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found from cmake.dir at \u0027/Users/ales/Library/Android/sdk/cmake/3.22.1\u0027 had version \u00273.22.1\u0027",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86/android_gradle_build.json due to:",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86/build_command.txt, will remove stale json folder",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86\u0027",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86\u0027",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/ales/Library/Android/sdk/cmake/3.22.1/bin/cmake\narguments : \n-H/Users/ales/git/chiaki\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/prefab/x86/prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/ales/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003d/Users/ales/Library/Android/sdk/ndk/21.1.6352462\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003d/Users/ales/Library/Android/sdk/ndk/21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/ales/git/chiaki/android/app/build/intermediates/cmake/debug/obj/x86\n-DCMAKE_MAKE_PROGRAM\u003d/Users/ales/Library/Android/sdk/cmake/3.22.1/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DCHIAKI_ENABLE_TESTS\u003dOFF\n-DCHIAKI_ENABLE_CLI\u003dOFF\n-DCHIAKI_ENABLE_GUI\u003dOFF\n-DCHIAKI_ENABLE_SETSU\u003dOFF\n-DCHIAKI_ENABLE_ANDROID\u003dON\n-DCHIAKI_ENABLE_FFMPEG_DECODER\u003dOFF\n-DCHIAKI_ENABLE_PI_DECODER\u003dOFF\n-DCHIAKI_LIB_ENABLE_OPUS\u003dOFF\n-DCHIAKI_LIB_OPENSSL_EXTERNAL_PROJECT\u003dON\n-B/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "null\n",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|x86"
+  }
+]

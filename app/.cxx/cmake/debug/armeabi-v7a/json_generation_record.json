@@ -1,0 +1,8 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file": "/Users/ales/git/chiaki/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  }
+]

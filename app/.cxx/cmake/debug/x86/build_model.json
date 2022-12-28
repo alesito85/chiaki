@@ -1,0 +1,250 @@
+{
+  "abi": "X86",
+  "abiPlatformVersion": 21,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86",
+    "cmakeServerLogFile": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/ales/git/chiaki/android/app/.cxx/cxx/debug/x86",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86",
+      "cmakeToolchain": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/Users/ales/Library/Android/sdk/cmake/3.22.1/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/prefab/x86/prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "x86"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-21"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "x86"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/Users/ales/git/chiaki/android/app/build/intermediates/cmake/debug/obj/x86"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/Users/ales/Library/Android/sdk/cmake/3.22.1/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "21"
+        },
+        {
+          "name": "CHIAKI_ENABLE_TESTS",
+          "value": "OFF"
+        },
+        {
+          "name": "CHIAKI_ENABLE_CLI",
+          "value": "OFF"
+        },
+        {
+          "name": "CHIAKI_ENABLE_GUI",
+          "value": "OFF"
+        },
+        {
+          "name": "CHIAKI_ENABLE_SETSU",
+          "value": "OFF"
+        },
+        {
+          "name": "CHIAKI_ENABLE_ANDROID",
+          "value": "ON"
+        },
+        {
+          "name": "CHIAKI_ENABLE_FFMPEG_DECODER",
+          "value": "OFF"
+        },
+        {
+          "name": "CHIAKI_ENABLE_PI_DECODER",
+          "value": "OFF"
+        },
+        {
+          "name": "CHIAKI_LIB_ENABLE_OPUS",
+          "value": "OFF"
+        },
+        {
+          "name": "CHIAKI_LIB_OPENSSL_EXTERNAL_PROJECT",
+          "value": "ON"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/x86",
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DCHIAKI_ENABLE_TESTS\u003dOFF",
+      "-DCHIAKI_ENABLE_CLI\u003dOFF",
+      "-DCHIAKI_ENABLE_GUI\u003dOFF",
+      "-DCHIAKI_ENABLE_SETSU\u003dOFF",
+      "-DCHIAKI_ENABLE_ANDROID\u003dON",
+      "-DCHIAKI_ENABLE_FFMPEG_DECODER\u003dOFF",
+      "-DCHIAKI_ENABLE_PI_DECODER\u003dOFF",
+      "-DCHIAKI_LIB_ENABLE_OPUS\u003dOFF",
+      "-DCHIAKI_LIB_OPENSSL_EXTERNAL_PROJECT\u003dON"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "/Users/ales/Library/Android/sdk/cmake/3.22.1/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/ales/Library/Android/sdk/cmake/3.22.1/bin/ninja"
+      },
+      "cmakeToolchainFile": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+      "cxxFolder": "/Users/ales/git/chiaki/android/app/.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "/Users/ales/git/chiaki/android/app/build/intermediates",
+      "makeFile": "/Users/ales/git/chiaki/CMakeLists.txt",
+      "moduleBuildFile": "/Users/ales/git/chiaki/android/app/build.gradle",
+      "moduleRootFolder": "/Users/ales/git/chiaki/android/app",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 29,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkVersion": "21.1.6352462",
+      "project": {
+        "compilerSettingsCacheFolder": "/Users/ales/git/chiaki/android/.cxx",
+        "cxxFolder": "/Users/ales/git/chiaki/android/.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "/Users/ales/git/chiaki/android",
+        "sdkFolder": "/Users/ales/Library/Android/sdk",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/ales/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "/Users/ales/git/chiaki/android/app/build/intermediates/cmake/debug/obj",
+    "variantName": "debug",
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "prefabDirectory": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "/Users/ales/git/chiaki/android/app/.cxx/cmake/debug/prefab/x86"
+}
