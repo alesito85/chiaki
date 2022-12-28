@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+82672b7d6689a84840c854cb52d7b5c8 gui/CMakeFiles/chiaki_autogen
+bbb2001a2feb9bae1b1495648fd165ba gui/chiaki_autogen/PNK5WDWK6L/qrc_resources.cpp
+e394d0e1abd35287ae17de63a9a59d3b lib/protobuf/CMakeFiles/chiaki-pb
+1c6b100efebafc6111721de36c03b621 lib/protobuf/takion.pb
+8b7d4f42326da94bba28325e0b3fe12f lib/protobuf/takion.pb.c
+43ef310d21b5a7f26fd8456b34c61cc9 third-party/nanopb/CMakeFiles/generate_nanopb_pb2.py
+259371dce8dcc9ca5e8a50e26dcbb0f8 third-party/nanopb/nanopb_pb2.py

@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/ales/git/chiaki/cmake/gui/chiaki_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ales/git/chiaki/cmake",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ales/git/chiaki/cmake/gui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ales/git/chiaki/gui",
+	"CMAKE_SOURCE_DIR" : "/home/ales/git/chiaki",
+	"INCLUDE_DIR" : "/home/ales/git/chiaki/cmake/gui/chiaki_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/ales/git/chiaki/gui/res/discover-24px.svg",
+		"/home/ales/git/chiaki/gui/res/settings-20px.svg",
+		"/home/ales/git/chiaki/gui/res/discover-off-24px.svg",
+		"/home/ales/git/chiaki/gui/res/console-ps5.svg",
+		"/home/ales/git/chiaki/gui/res/chiaki_macos.svg",
+		"/home/ales/git/chiaki/gui/res/add-24px.svg",
+		"/home/ales/git/chiaki/gui/res/console-ps4.svg",
+		"/home/ales/git/chiaki/gui/res/chiaki.svg"
+	],
+	"LOCK_FILE" : "/home/ales/git/chiaki/cmake/gui/CMakeFiles/chiaki_autogen.dir/AutoRcc_resources_PNK5WDWK6L_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "PNK5WDWK6L",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ales/git/chiaki/cmake/gui/CMakeFiles/chiaki_autogen.dir/AutoRcc_resources_PNK5WDWK6L_Used.txt",
+	"SOURCE" : "/home/ales/git/chiaki/gui/res/resources.qrc",
+	"VERBOSITY" : 0
+}
